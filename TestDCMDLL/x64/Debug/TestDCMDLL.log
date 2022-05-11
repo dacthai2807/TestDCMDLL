@@ -23,12 +23,12 @@ D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(452,34): warning C4244: '
 D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(453,34): warning C4244: '=': conversion from 'double' to 'Float32', possible loss of data
 D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(469,14): warning C4244: '=': conversion from 'Float32' to 'int', possible loss of data
 D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(470,14): warning C4244: '=': conversion from 'Float32' to 'int', possible loss of data
-zlib_d.lib(adler32.obj) : warning LNK4099: PDB '' was not found with 'zlib_d.lib(adler32.obj)' or at ''; linking object as if no debug info
+zlib_d.lib(adler32.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(adler32.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
 zlib_d.lib(crc32.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(crc32.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
 zlib_d.lib(deflate.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(deflate.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
 zlib_d.lib(inflate.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(inflate.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
 zlib_d.lib(inftrees.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(inftrees.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
-zlib_d.lib(inffast.obj) : warning LNK4099: PDB '' was not found with 'zlib_d.lib(inffast.obj)' or at ''; linking object as if no debug info
+zlib_d.lib(inffast.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(inffast.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
 zlib_d.lib(trees.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(trees.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
 zlib_d.lib(zutil.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(zutil.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
   TestDCMDLL.vcxproj -> D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\TestDCMDLL.exe

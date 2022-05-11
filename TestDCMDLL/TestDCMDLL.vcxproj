@@ -80,8 +80,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\DICOM\dcmtk-dll\DCMDLL-Release\DCMDLL\dcmdll\include;D:\DICOM\dcmtk-dll\DCMDLL-Release\DCMDLL\dcmtk\include;D:\SDL\SDL2-2.0.20\include;D:\SDL\SDL2_ttf-2.0.14\include;D:\SDL\SDL2_mixer-2.0.2\include;D:\SDL\SDL2_image-2.0.5\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\DICOM\dcmtk-dll\DCMDLL-Release\DCMDLL\dcmdll\lib;D:\DICOM\dcmtk-dll\DCMDLL-Release\DCMDLL\zlib-1.2.11\lib;D:\DICOM\dcmtk-dll\DCMDLL-Release\DCMDLL\dcmtk\lib;D:\SDL\SDL2-2.0.20\lib\x64;D:\SDL\SDL2_ttf-2.0.14\lib\x64;D:\SDL\SDL2_mixer-2.0.2\lib\x64;D:\SDL\SDL2_image-2.0.5\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(SolutionDir)\dcmdll\include;$(SolutionDir)\dcmtk\include;$(SolutionDir)\SDL2-2.0.20\include;$(SolutionDir)\SDL2_ttf-2.0.14\include;$(SolutionDir)\SDL2_mixer-2.0.2\include;$(SolutionDir)\SDL2_image-2.0.5\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)\dcmdll\lib;$(SolutionDir)\zlib-1.2.11\lib;$(SolutionDir)\dcmtk\lib;$(SolutionDir)\SDL2-2.0.20\lib\x64;$(SolutionDir)\SDL2_ttf-2.0.14\lib\x64;$(SolutionDir)\SDL2_mixer-2.0.2\lib\x64;$(SolutionDir)\SDL2_image-2.0.5\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
