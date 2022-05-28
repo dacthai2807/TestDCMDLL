@@ -2,7 +2,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #endif 
 
-#include "dcmdll/dcmimage/dcmimage.h"
+#include "dcmtk/dcmimage/diregist.h"
+
+#include "dcmdll/dcmimg/dcmimg.h"
 #include "dcmdll/dcmfile/dcmfile.h"
 #include "dcmtk/dcmdata/dcddirif.h"
 #include "dcmtk/dcmimgle/dcmimage.h"
@@ -65,6 +67,7 @@ void load(int argc, char const* argv[]) {
 		}
 		else if (strcmp(argv[1], "-i") == 0 && argc >= 5) {
 			char* inputFilename = new char[strlen(argv[2]) + 1];
+			wchar_t* inputFilenameWC = new wchar_t[strlen(argv[2]) + 1];
 			strcpy(inputFilename, argv[2]);
 
 			if (strcmp(argv[3], "-o") == 0) {
@@ -342,6 +345,14 @@ void load(int argc, char const* argv[]) {
 							cout << "Failed to remove last line from GSPS";
 						}
 					}
+					/*else if (strcmp(command, "+Cjpgwc") == 0) {
+						if (convertDcmToJPGWC(inputFilenameWC, outputFilename)) {
+							cout << "Convert dcm file to jpg file successfully\n";
+						}
+						else {
+							cout << "Failed to convert dcm file to jpg file";
+						}
+					}*/
 				}
 			}
 			else {

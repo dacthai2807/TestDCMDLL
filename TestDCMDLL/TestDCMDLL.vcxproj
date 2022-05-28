@@ -124,7 +124,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>dcmimage.lib;dcmfile.lib;iphlpapi.lib;ws2_32.lib;wsock32.lib;netapi32.lib;ofstd.lib;oflog.lib;dcmdata.lib;dcmdsig.lib;dcmnet.lib;dcmsr.lib;dcmimgle.lib;dcmqrdb.lib;dcmtls.lib;dcmwlm.lib;dcmpstat.lib;dcmjpls.lib;dcmjpeg.lib;ijg8.lib;ijg12.lib;ijg16.lib;i2d.lib;zlib_d.lib;SDL2.lib;SDL2_image.lib;SDL2_ttf.lib;SDL2_mixer.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>dcmimage.lib;dcmfile.lib;dcmimg.lib;iphlpapi.lib;ws2_32.lib;wsock32.lib;netapi32.lib;ofstd.lib;oflog.lib;dcmdata.lib;dcmdsig.lib;dcmnet.lib;dcmsr.lib;dcmimgle.lib;dcmqrdb.lib;dcmtls.lib;dcmwlm.lib;dcmpstat.lib;dcmjpls.lib;dcmjpeg.lib;ijg8.lib;ijg12.lib;ijg16.lib;i2d.lib;zlib_d.lib;SDL2.lib;SDL2_image.lib;SDL2_ttf.lib;SDL2_mixer.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">

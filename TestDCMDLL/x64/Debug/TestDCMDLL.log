@@ -1,30 +1,30 @@
 ﻿  Main.cpp
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(130,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(140,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(158,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(176,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(230,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(232,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(250,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(252,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(254,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(256,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(267,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(269,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(281,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(283,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(285,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(287,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(289,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(291,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(293,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(295,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(452,34): warning C4244: '=': conversion from 'double' to 'Float32', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(453,34): warning C4244: '=': conversion from 'double' to 'Float32', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(469,14): warning C4244: '=': conversion from 'Float32' to 'int', possible loss of data
-D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(470,14): warning C4244: '=': conversion from 'Float32' to 'int', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(133,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(143,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(161,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(179,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(233,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(235,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(253,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(255,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(257,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(259,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(270,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(272,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(284,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(286,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(288,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(290,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(292,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(294,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(296,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(298,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(463,34): warning C4244: '=': conversion from 'double' to 'Float32', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(464,34): warning C4244: '=': conversion from 'double' to 'Float32', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(480,14): warning C4244: '=': conversion from 'Float32' to 'int', possible loss of data
+D:\DICOM\dcmtk-projects\TestDCMDLL\TestDCMDLL\Main.cpp(481,14): warning C4244: '=': conversion from 'Float32' to 'int', possible loss of data
 zlib_d.lib(adler32.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(adler32.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
-zlib_d.lib(crc32.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(crc32.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
+zlib_d.lib(crc32.obj) : warning LNK4099: PDB '' was not found with 'zlib_d.lib(crc32.obj)' or at ''; linking object as if no debug info
 zlib_d.lib(deflate.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(deflate.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
 zlib_d.lib(inflate.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(inflate.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
 zlib_d.lib(inftrees.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(inftrees.obj)' or at 'D:\DICOM\dcmtk-projects\TestDCMDLL\x64\Debug\zlibstatic.pdb'; linking object as if no debug info
